@@ -8,7 +8,7 @@ public class Demo {
         obj.accu();
         obj.Break();
 
-        // 
+   
         Car obj1=new elctricCar();
         obj1.Start();
         obj1.accu();
